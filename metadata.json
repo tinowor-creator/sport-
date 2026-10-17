@@ -1,0 +1,6 @@
+{
+  "name": "Triathlon Sport-Analyse",
+  "description": "Professioneller 2-Wochen-Trainingsplan und realistische Sportanalyse für Triathlon mit Strava- & Garmin-Sync und KI-Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
